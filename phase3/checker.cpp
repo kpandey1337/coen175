@@ -1,8 +1,8 @@
 #include "checker.h"
 
-#define E1 "redefinition of ’%s’"
-#define E2 "redeclaration of ’%s’"
-#define E3 "conflicting types for ’%s’"
+#define E1 "redefinition of '%s'"
+#define E2 "redeclaration of '%s'"
+#define E3 "conflicting types for '%s'"
 #define E4 "’%s’ undeclared"
 
 
